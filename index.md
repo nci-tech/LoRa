@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Desarrollo de tecnología de comunicación para la Ag 4.0
 
-You can use the [editor on GitHub](https://github.com/nci-tech/LoRa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Arquitectura LoRaWAN-Ag
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![ArqLoRa](https://github.com/nci-tech/LoRa/blob/main/arq.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Prototipo versión 0
 
-- Bulleted
-- List
+![Partes0](https://github.com/nci-tech/LoRa/blob/main/Partes.png)
 
-1. Numbered
-2. List
+#### Referencias
 
-**Bold** and _Italic_ and `Code` text
+1. Iglesias, N.; Bulacio, P.; Tapia E. "Arquitectura de comunicación para la digitalización de la agricultura en torno a la maquinaria agrícola". Elektron. Publicación - Facultad de Ingeniería de la Universidad de Buenos Aires. Facultad de Ingeniería de la Universidad de Buenos Aires. Vol. 4. No. 2 (2020).
+2. Iglesias, N.; Bulacio, P.; Tapia E. A focus on communication solution in agricultural telemetry systems. 12º Congreso Argentino de AgroInformática. JAIIO 2020. 
+3. Iglesias, N.; Bulacio, P.; Tapia E. Ubiquitous network integration to enabling cloud services around agricultural machinery. Congreso Argentino de Sistemas Embebidos CASE 2020. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Prototipo version 1
 
-### Jekyll Themes
+Bajo desarrollo...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nci-tech/LoRa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
