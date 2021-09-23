@@ -21,13 +21,6 @@
 
 ### Referencias
 
-1. Iglesias, N.; Bulacio, P.; Tapia E. "Arquitectura de comunicación para la digitalización de la agricultura en torno a la maquinaria agrícola". Elektron. Publicación - Facultad de Ingeniería de la Universidad de Buenos Aires. Facultad de Ingeniería de la Universidad de Buenos Aires. Vol. 4. No. 2 (2020).
-2. Iglesias, N.; Bulacio, P.; Tapia E. A focus on communication solution in agricultural telemetry systems. 12º Congreso Argentino de AgroInformática. JAIIO 2020. 
-3. Iglesias, N.; Bulacio, P.; Tapia E. Ubiquitous network integration to enabling cloud services around agricultural machinery. Congreso Argentino de Sistemas Embebidos CASE 2020. 
-
-
-
-
-
-
-
+1. <div align="justify">Iglesias, N.; Bulacio, P.; Tapia E. "Arquitectura de comunicación para la digitalización de la agricultura en torno a la maquinaria agrícola". Elektron. Publicación - Facultad de Ingeniería de la Universidad de Buenos Aires. Facultad de Ingeniería de la Universidad de Buenos Aires. Vol. 4. No. 2 (2020).</div>
+2. <div align="justify">Iglesias, N.; Bulacio, P.; Tapia E. A focus on communication solution in agricultural telemetry systems. 12º Congreso Argentino de AgroInformática. JAIIO 2020.</div> 
+3. <div align="justify">Iglesias, N.; Bulacio, P.; Tapia E. Ubiquitous network integration to enabling cloud services around agricultural machinery. Congreso Argentino de Sistemas Embebidos CASE 2020.</div> 
