@@ -26,9 +26,8 @@
 3. Iglesias, N.; Bulacio, P.; Tapia E. Ubiquitous network integration to enabling cloud services around agricultural machinery. Congreso Argentino de Sistemas Embebidos CASE 2020. 
 
 
-### Prototipo version 1
 
-...
+
 
 
 
