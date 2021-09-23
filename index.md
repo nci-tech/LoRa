@@ -4,7 +4,7 @@
 
 ## Arquitectura LoRaWAN-Ag
 
-![ArqLoRa](https://github.com/nci-tech/LoRa/blob/main/arq.png)
+![ArqLoRa](img/arq.png)
 
 
 
