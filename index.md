@@ -10,14 +10,14 @@
 
 ## Prototipo versión 0
 
-![Partes0](https://github.com/nci-tech/LoRa/blob/main/Partes.png) 
+![Partes0](img/Partes.png) 
 
 
-<img src="https://github.com/nci-tech/LoRa/blob/main/sist0.png" width="600" height="400">
+<img src="img/sist0.png" width="600" height="400">
 
 ### Desempeño canal LoRa estandar + movilidad
 
-![Desempeño0](https://github.com/nci-tech/LoRa/blob/main/desempeno.png)
+![Desempeño0](img/desempeno.png)
 
 ### Referencias
 
