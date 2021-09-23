@@ -2,23 +2,24 @@
 
 
 
-### Arquitectura LoRaWAN-Ag
+## Arquitectura LoRaWAN-Ag
 
 ![ArqLoRa](https://github.com/nci-tech/LoRa/blob/main/arq.png)
 
 
 
-### Prototipo versión 0
+## Prototipo versión 0
 
 ![Partes0](https://github.com/nci-tech/LoRa/blob/main/Partes.png) 
 
 
 <img src="https://github.com/nci-tech/LoRa/blob/main/sist0.png" width="600" height="400">
 
+### Desempeño canal LoRa estandar + movilidad
 
+![Desempeño0](https://github.com/nci-tech/LoRa/blob/main/desempeno.png)
 
-
-#### Referencias
+### Referencias
 
 1. Iglesias, N.; Bulacio, P.; Tapia E. "Arquitectura de comunicación para la digitalización de la agricultura en torno a la maquinaria agrícola". Elektron. Publicación - Facultad de Ingeniería de la Universidad de Buenos Aires. Facultad de Ingeniería de la Universidad de Buenos Aires. Vol. 4. No. 2 (2020).
 2. Iglesias, N.; Bulacio, P.; Tapia E. A focus on communication solution in agricultural telemetry systems. 12º Congreso Argentino de AgroInformática. JAIIO 2020. 
