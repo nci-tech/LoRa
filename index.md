@@ -1,4 +1,4 @@
-# Tecnología de comunicación para la Ag 4.0 basada en LoRaWAN
+# Tecnología de comunicación para Ag 4.0 basada en LoRaWAN
 
 
 
@@ -13,7 +13,7 @@
 ![Partes0](https://github.com/nci-tech/LoRa/blob/main/Partes.png) 
 
 
-![Sistema0](https://github.com/nci-tech/LoRa/blob/main/sist0.png)
+<img src="https://github.com/nci-tech/LoRa/blob/main/sist0.png" width="600" height="400">
 
 
 
@@ -27,7 +27,7 @@
 
 ### Prototipo version 1
 
-Bajo desarrollo...
+...
 
 
 
